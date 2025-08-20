@@ -1,6 +1,7 @@
 # React Currying Demo
+<img width="1242" height="578" alt="image" src="https://github.com/user-attachments/assets/e98d6b34-e7a6-4abd-a184-889929ea4ae3" />
+
 <img width="1262" height="584" alt="image" src="https://github.com/user-attachments/assets/cb37ebad-9db6-4ee8-a5ff-f29eb30aa1bd" />
-![Uploading image.png…]()
 
 
 
