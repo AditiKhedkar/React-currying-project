@@ -1,5 +1,7 @@
 # React Currying Demo
+<img width="1262" height="584" alt="image" src="https://github.com/user-attachments/assets/cb37ebad-9db6-4ee8-a5ff-f29eb30aa1bd" />
 ![Uploading image.png…]()
+
 
 
 A tiny React + Vite project that teaches **currying** with an interactive playground and a reusable `curry` utility.
