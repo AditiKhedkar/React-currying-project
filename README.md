@@ -1,4 +1,6 @@
 # React Currying Demo
+![Uploading image.png…]()
+
 
 A tiny React + Vite project that teaches **currying** with an interactive playground and a reusable `curry` utility.
 
